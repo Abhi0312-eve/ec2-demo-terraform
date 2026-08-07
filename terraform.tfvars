@@ -1,0 +1,5 @@
+instanceName    = "ec2-demo"
+instanceType    = "t2.micro"
+region          = "us-east-2"
+operatingSystem = "Amazon Linux 2023"
+owner           = "abhi"
