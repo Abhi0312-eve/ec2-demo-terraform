@@ -1,4 +1,4 @@
-ivariable "instanceName" {
+variable "instanceName" {
   description = "EC2 Instance Name"
   type        = string
 }
